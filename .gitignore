@@ -1,0 +1,46 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Shell / terminal history & local config
+.history
+.zsh_history
+.bash_history
+.env
+.env.*
+
+# Logs & output
+*.log
+logs/
+output/
+tmp/
+temp/
+
+# Compiled / generated files
+*.out
+*.exe
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# FFmpeg / media byproducts
+*.wav
+*.mp3
+*.flac
+*.aac
+*.ogg
+*.mp4
+*.mkv
+*.png
+*.jpg
+*.svg
